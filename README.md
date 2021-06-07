@@ -12,7 +12,7 @@
 
 ## 📖 Learning Goals 📖
 
-- GRE (lol)
+- GRE 😡
 - Java JVM
 - Shaders for video game programming
 - Game Design
