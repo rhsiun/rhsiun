@@ -1,4 +1,4 @@
-# 👶 Zedong/Russell Xun ⚡️
+# 👶 Zedong/Russell Xun 👿
 
 ## 📌 Hi there 👋
 
