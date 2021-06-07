@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Zedong(Russell) Xun. I am a computer science and mathematics double major student at Washington University in St. Louis. Welcome to my GithHub!
+
+### Work
+🔭 I’m currently working as a software engineer intern at Huawei, in Dongguan, China. I am responsible for the front-end development of an online smart engine that provides information for supply chain management people inside Huawei.
+
+### Collaboration
+
 
 <!--
 **rhsiun/rhsiun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
