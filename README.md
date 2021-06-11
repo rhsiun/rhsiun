@@ -31,7 +31,7 @@
 - Primary: rhsiun@gmail.com
 - School: zxun@wustl.edu
 
-## ⚡ Fun fact ⚡
+## ⚡ Fun Facts ⚡
 
 - 🎵 Music taste 🎶: essentially anything sounds good. Prefer rock, hip-hop, pop. Oh, I play the 🎸 guitar 🎸 btw. 
 - ⛹️‍♂️ Teams ⛹️‍♂️: Oklahoma City Thunder!!!!!!!!! ⚡⚡⚡⚡⚡⚡⚡⚡⚡, Sichuan Jinqiang...
