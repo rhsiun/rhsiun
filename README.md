@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zedong(Russell) Xun</h1>
-<h3 align="center">✨ A learning Software Engineer, a computer science and mathematics double major student at Washington University in St. Louis. Welcome to my GithHub! ✨</h3>
+<h3 align="center">✨ Software Engineer, Game Developer, Computer science/Mathematics double major student at Washington University in St. Louis. Welcome to my GithHub! ✨</h3>
 
 ## 💼 Work 💼
 
