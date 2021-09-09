@@ -5,7 +5,6 @@
 ## 💼 Work 💼
 
 - I’m currently working as a software engineer intern at Huawei, in Dongguan, China. I am responsible for the front-end development of an online smart engine that provides information for supply chain management people inside Huawei.
-- I'm also working as a research assistant at Dr. Brent's Lab at WashU focusing on neural mapping.
 - During my senior year, I will work as teaching assistant for both CSE433S AND CSE451A. I have also served as a TA for CSE330S for two semesters.
 
 ## 📖 Learning Goals 📖
