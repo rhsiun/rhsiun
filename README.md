@@ -4,13 +4,10 @@
 
 ## 💼 Work 💼
 
-- I’m currently working as a software engineer intern at Huawei, in Dongguan, China. I am responsible for the front-end development of an online smart engine that provides information for supply chain management people inside Huawei.
-- During my senior year, I will work as teaching assistant for both CSE433S AND CSE451A. I have also served as a TA for CSE330S for two semesters.
+- Senior @ Washington University in St. Louis. Looking for full-time software engineering role after graduation May 2022!
 
 ## 📖 Learning Goals 📖
 
-- GRE 😡
-- Java JVM
 - Shaders for video game programming
 - Game Design
 - Drum, yes, rock and roll baby
