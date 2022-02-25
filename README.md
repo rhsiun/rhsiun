@@ -4,7 +4,7 @@
 
 ## 💼 Work 💼
 
-- Senior @ Washington University in St. Louis. Looking for full-time software engineering role after graduation May 2022!
+- SDE @ Amazon
 
 ## 📖 Learning Goals 📖
 
@@ -19,7 +19,7 @@
 
 ## 🤔 Need Help With 🤔
 
-- Actively seeking full-time jobs as a software engineer...
+- How to survive in a big company...
 - Advice on how to pursue a career in video game industry...
 - Wanna build a good bodyshape...
 
